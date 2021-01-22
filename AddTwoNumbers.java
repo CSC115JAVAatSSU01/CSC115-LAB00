@@ -1,9 +1,9 @@
 import java.util.*;
 
-//Bryan
+//Alex Marx
 
 public class AddTwoNumbers 
-// PISETH SUN
+
 {
 
    public static void main(String[] args) 
